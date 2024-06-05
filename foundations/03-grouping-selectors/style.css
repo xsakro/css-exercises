@@ -1,0 +1,18 @@
+.small, .bigger
+{
+    font-size:28px;
+    font-family:Helvetica, 'Times New Roman', sans-serif;
+}
+
+
+.small
+{
+    background-color: black;
+    font-weight:bold;
+    color:white;
+}
+
+.bigger
+{
+    background-color: yellow;
+}
